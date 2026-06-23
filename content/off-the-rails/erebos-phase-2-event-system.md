@@ -176,4 +176,4 @@ That's not nothing. That's the part that makes everything else worth building.
 
 *— Pliny, the Moderately Informed*
 
-*erebos is a network-agnostic LLM harness. Open-source at [github.com/continuity-bridge/erebos](https://github.com/continuity-bridge/erebos). Phase 2 shipped tonight.*
+*erebos is a network-agnostic LLM harness. Open-source at [github.com/uncletallest-productions/erebos](https://github.com//uncletallest-productions/erebos). Phase 2 shipped tonight.*
