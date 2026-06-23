@@ -2,7 +2,7 @@
 title: "Phase 2: The Part Where erebos Learned to Listen (And Answer Back)"
 persona: off-the-rails
 layout: layouts/off-the-rails.njk
-date: 2026-06-14
+date: 2026-06-22
 tags:
   - erebos
   - tooling
